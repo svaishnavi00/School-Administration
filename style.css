@@ -1,0 +1,71 @@
+/* .........................adminregistration.......................... */
+.registerpage{
+background: linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),url(images/admin.jpg);
+background-size: cover;
+background-position: center;
+}
+.login-box{
+  max-width: 700px;
+  float: none;
+  margin: 150px auto;
+}
+.login-left{
+  background:rgba(211, 211, 211, 0.5);
+  padding: 30px;
+}
+/* .....................adminlogin.......................... */
+.loginpage{
+background: linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),url(images/admin.jpg);
+background-size: cover;
+background-position: center;
+}
+.login-box{
+  max-width: 700px;
+  float: none;
+  margin: 150px auto;
+}
+.login-left{
+  background:rgba(211, 211, 211, 0.5);
+  padding: 30px;
+}
+/* ................complaint................... */
+.complainbox{
+  height: 200px;
+  width: 600px;
+  font-size: 14pt;
+}
+/* .........................indexpage.............................. */
+.title{
+  background-color: skyblue;
+}
+.carousel{
+  height: 500px;
+  width: 1100px;
+}
+.cimage{
+  height: 500px;
+  width: 1100px;
+}
+
+/* ........................add notice............................ */
+/* .notice{
+  width: 30%;
+  margin: 100px auto;
+  padding: 30px;
+  border: 1px solid #555;
+  background-color: red;
+}
+.abcd{
+  width: 100%;
+  border: 1px solid #f1e1e1;
+  display: block;
+  padding: 5px 10px;
+}
+.addnoticebtn{
+  border: none;
+  padding: 10px;
+  border-radius: 10px;
+} */
+.space{
+  margin-top: 40px;
+}
